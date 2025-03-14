@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Firoz Khan 👋  
+### 🚀 Full Stack Software Developer |JavaScript | Python | Node.js | HTML
 
-<!--
-**Firoz9701/Firoz9701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Results-driven Full Stack Developer with **3 years of experience** in designing, developing, and deploying scalable applications. Passionate about problem-solving, continuous learning, and building impactful digital solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Backend**: Node.js, Express.js, Python  
+- **Frontend**: React.js, JavaScript, HTML, CSS  
+- **Database**: MongoDB, MySQL  
+- **Tools & Platforms**: Git, RESTful APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Work Experience  
+**Software Developer | IBM (04/2021 – 04/2024) | Gurgaon**  
+- Developed RESTful APIs for seamless integration with front-end applications and third-party services.  
+- Implemented **code reviews, best practices, and debugging strategies** to enhance application stability.  
+- Worked on **React.js, JavaScript, HTML, CSS** for frontend development.  
+
+## 🏆 Projects  
+### 🔹 **gRPC Framework (01/2023 – 06/2023)**  
+A high-performance Remote Procedure Call (RPC) framework that connects services across data centers.  
+**Tech Used**: gRPC, Java, JavaScript, Swift, Go, HTML  
+
+### 🔹 **Carbon Design System (10/2023 – 01/2024)**  
+IBM’s open-source design system for products and digital experiences.  
+**Tech Used**: TypeScript, JavaScript, SCSS, MDX, HTML  
+
+## 📜 Certifications  
+- **Python (Basic)** – HackerRank  
+- **JavaScript (Basic)** – HackerRank  
+
+## 📫 Connect with Me  
+- **LinkedIn**: [Firoz Khan](https://linkedin.com/in/firoz-khan-5245a3158)  
+- **GitHub**: [github.com/YourGitHubUsername](https://github.com/Firoz9701)  
+- **Email**: fkfiroz97@gmail.com  
+
+💡 *Let's build something amazing together!*
